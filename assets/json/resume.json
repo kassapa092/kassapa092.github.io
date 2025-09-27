@@ -78,14 +78,14 @@
       "date": "2025-04-01",
       "awarder": "Coulter School of Engineering and Applied Sciences, Clarkson University",
       "url": "https://www.clarkson.edu",
-      "summary": "Awarded Outstanding Graduate Student Award at the Clarkson’s Celebration & Recognition of Excellence Weekend (CREW)"
+      "summary": "I was honored with the Distinguished Graduate Student Award during the Celebration and Recognition of Excellence Weekend (CREW) at Clarkson University. This award is a selective recognition given to graduate students who demonstrate outstanding research contributions, academic excellence, and leadership within the School of Engineering. It acknowledges the impact of my doctoral research on Chemical Mechanical Planarization (CMP) and tribo-electrochemistry of metals and alloys, particularly its relevance to semiconductor manufacturing and emerging flexible device technologies. Beyond research, the award also reflects my role in mentoring students, managing laboratory operations, and contributing to Clarkson’s research community, underscoring my commitment to advancing both science and collaborative education."
     },
     {
       "title": "Best graduate research poster",
       "date": "2022-07-01",
       "awarder": "Clarkson University",
       "url": "https://www.clarkson.edu",
-      "summary": "Awarded 1st place for the Best graduate poster for chemistry and electrochemistry, material science at the Clarkson research and project showcase (RAPS)"
+      "summary": "I received the Best Graduate Poster Award in Chemistry, Electrochemistry, and Materials Science at the Summer RAPS (Research and Project Showcase) event organized by Clarkson University. My poster, “Measurement of Active Sample Area in Electroanalytical Studies of CMP Reactions Under Polishing Conditions,” addressed the challenge of accurately defining the electrochemically active area during CMP. This work demonstrated how precise measurement of active contact areas is essential for correctly interpreting electroanalytical data under polishing conditions, providing deeper insight into the balance between chemical reactions and mechanical removal. The award recognized both the significance of these findings for CMP research and the effectiveness of communicating them to a multidisciplinary audience."
     }
   ],
   "publications": [
@@ -97,7 +97,7 @@
       "summary": ""
     },
     {
-      "name": "TTribo-Electrochemical Considerations for Assessing Galvanic Corrosion Characteristics of Metals in Chemical Mechanical Planarization",
+      "name": "Tribo-Electrochemical Considerations for Assessing Galvanic Corrosion Characteristics of Metals in Chemical Mechanical Planarization",
       "publisher": "MDPI, Electrochem",
       "releaseDate": "2025",
       "url": "",
@@ -111,7 +111,7 @@
       "summary": ""
     },
     {
-      "name": "TMechanisms of Chemically Promoted Material Removal Examined for Molybdenum and Copper CMP in Weakly Alkaline Citrate-Based Slurries",
+      "name": "Mechanisms of Chemically Promoted Material Removal Examined for Molybdenum and Copper CMP in Weakly Alkaline Citrate-Based Slurries",
       "publisher": "MDPI, Materials",
       "releaseDate": "2024",
       "url": "",
@@ -121,7 +121,7 @@
       "name": "Experimental Strategies for Studying Tribo-Electrochemical Aspects of Chemical-Mechanical Planarization.",
       "publisher": "ICPT Conference Proceedings",
       "releaseDate": "2022",
-      "url": "",
+      "url": "https://www.mdpi.com/2075-4442/12/2/63",
       "summary": ""
     },
     {
