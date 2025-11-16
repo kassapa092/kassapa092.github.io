@@ -2,11 +2,14 @@
 layout: page
 title: Galvanic Corrosion Pathways in Metal CMP
 description:
-img: assets/img/12.png
+img: assets/img/cocugc.jpg
 importance: 1
 category: work
 related_publications: false
 ---
+
+![image](assets/img/cocugc.jpg)
+
 
 ## Overview
 

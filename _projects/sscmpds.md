@@ -2,11 +2,14 @@
 layout: page
 title: Tribo-Electrochemical CMP of Stainless Steel with Citrate Buffers
 description:
-img: assets/img/sscmpds.png
+img: assets/img/sscmp.jpg
 importance: 1
 category: work
 related_publications: false
 ---
+
+![image](assets/img/sscmp.jpg)
+
 
 ## Overview
 

@@ -2,11 +2,13 @@
 layout: page
 title: Unraveling Tribo-Electrochemical Mechanisms in Metal CMP
 description:
-img: assets/img/lubrev.png
+img: assets/img/lubrev1.jpg
 importance: 1
 category: work
 related_publications: false
 ---
+
+![image](assets/img/lubrev1.jpg)
 
 ## Overview
 

@@ -2,11 +2,13 @@
 layout: page
 title: Mechanistic Insights into Mo and Cu CMP in Citrate-Based Slurries
 description:
-img: assets/img/12.png
+img: assets/img/mocmp.png
 importance: 1
 category: work
 related_publications: false
 ---
+
+![image](assets/img/mocmp.jpg)
 
 ### Overview
 

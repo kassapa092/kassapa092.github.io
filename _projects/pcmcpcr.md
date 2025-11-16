@@ -2,11 +2,14 @@
 layout: page
 title: Post-CMP Cleaning of Copper Films with Tartrate-Based Chemistry
 description:
-img: assets/img/12.png
+img: assets/img/pcmpc.jpg
 importance: 1
 category: work
 related_publications: false
 ---
+
+![image](assets/img/pcmpc.jpg)
+
 
 ## Overview
 
