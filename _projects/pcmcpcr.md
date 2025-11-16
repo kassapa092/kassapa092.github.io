@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-![image](assets/img/pcmpc.jpg)
+{% include figure.liquid loading="eager" path="assets/img/pcmpc.jpg" title="image" class="img-fluid rounded z-depth-1" %}
 
 
 ## Overview

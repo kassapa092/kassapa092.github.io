@@ -8,7 +8,8 @@ category: work
 related_publications: false
 ---
 
-![image](assets/img/lubrev1.jpg)
+{% include figure.liquid loading="eager" path="assets/img/lubrev1.jpg" title="image" class="img-fluid rounded z-depth-1" %}
+
 
 ## Overview
 
